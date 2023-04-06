@@ -2,6 +2,11 @@
 
 By Prince Kr Paswan
 
+# Manual
+To search the user we just need not enter the correct user name 
+in the serch box and click the button and do not put space before 
+and after the user name
+
 This app is responsive for mobiles 
 
 ## [Live Link of GitHub user Data](https://get-github-userdata.netlify.app/)
